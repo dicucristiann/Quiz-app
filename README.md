@@ -7,14 +7,18 @@ If the answer is 'false,' the result is displayed as '--hue: var(--hue-wrong)' f
 
 ## CONTRIBUTION 
 
--Open for contribution!
--To contribute:
--Fork the repo
--Clone the repo
--Make your changes
--Commit and push the changes
--Generate a Pull Request
+<h2>Open for contribution!</h2>
+<h4>To contribute:</h3>
+<ul>
+  <li>Fork the repo</li>
+  <li>Clone the repo</li>
+  <li>Make your changes</li>
+   <li>Commit and push the changes</li>
+  <li>Generate a Pull Request</li>
+</ul>
+
 <br />
+
 ### Sit back and relax while your PR gets merged
 
 Smash the star button
