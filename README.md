@@ -29,4 +29,5 @@ Leave a star if you liked the app!
 <br />
 <img src="https://c.tenor.com/1Ucwz9xKC94AAAAM/coach-josh-wood-coach-josh.gif" alt="⭐⭐⭐">
 
-[View Live](https://jovial-bublanina-a876ce.netlify.app/)
+[View Live target="_blanck"](https://jovial-bublanina-a876ce.netlify.app/)
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a>
