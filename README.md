@@ -18,6 +18,9 @@ If the answer is 'false,' the result is displayed as '--hue: var(--hue-wrong)' f
 ### Sit back and relax while your PR gets merged
 
 Smash the star button
+<br />
 Leave a star if you liked the app!
+<br />
 Leave a star if you liked the app!
-
+<br />
+<img src="https://c.tenor.com/1Ucwz9xKC94AAAAM/coach-josh-wood-coach-josh.gif" alt="⭐⭐⭐">
